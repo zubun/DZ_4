@@ -11,7 +11,6 @@ script_name, productivity, rate, prize = argv
 # print(f"При премии в:", prize)
 
 
-
 print(f"Имя скрипта: {script_name}")
 print(f"При выработке в: {productivity}.")
 print(f"При ставке в: {rate}.")
