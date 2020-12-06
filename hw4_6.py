@@ -9,6 +9,7 @@ def count_list(start, stop):
         else:
             break
     return list
+
 start = int(input("Введите начальное значение списка(целое число):"))
 stop = int(input("Введите конечное значение списка(целое число):"))
 print(count_list(start, stop))

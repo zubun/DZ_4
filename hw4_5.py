@@ -1,5 +1,6 @@
 from functools import reduce
 
+
 def multiplication_function(prev_el, el):
     return prev_el * el
 
